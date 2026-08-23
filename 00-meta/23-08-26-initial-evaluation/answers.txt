@@ -1,0 +1,156 @@
+1.
+a) 7
+b) 23
+c) It multiplies the input by 2 and then adds it with 3.
+
+2. 
+x = 5
+
+I subtracted the same amount from either side, and then divided both sides by the same amount leaving me with the final value. This presearves the equality.
+
+3. 
+2^5 times.
+
+4.
+It means what number should 2 be raised to, in order to get 32 as an answer (basically, an inverse of exponential function).
+
+5. 
+It increases. 
+If analyzed in terms of calculus, the rate of change at x = 2 would be less than the rate of change at x = 10. In terms of graph as well, if we visualise, we would see a slow increase around x = 2, and a sharp increase at x = 10.
+
+6. 
+It could represent a point in a 3D space. 
+Ex.: The location of a particle in 3D space at a given time, which can be used to predict its future position by an ML prediction model.
+
+7. 
+Answer: [5, 7, 9]
+Geometrically, vector addition wouold mean creating a longer or shorter vector by adding two or more vectors. 
+Intuitively, vector addition is just finding a new point in a space.
+
+8. 
+[4, 10, 18]
+I don't have the intuition for this.
+
+9. 
+_     _
+|  17  |
+|_ 39 _|
+
+No intuition...
+
+10. 
+Yes.
+3 x 2
+No.
+
+11. 
+A derivative tells us how a function is changing; what is the nature of change of a function at any given point.
+
+12. 
+2x
+
+13.
+Gradient may be the derivative of a continuous function.
+
+14.
+50%.
+There are as many even numbers as odd ones in a fair die. Hence, when it is rolled, there are equal chances of getting either an odd or an even number.
+
+15. 
+No, since height is nowhere related to gender.
+
+16.
+I don't know.
+
+17.
+O(n)
+Because each element in the iterable "numbers" is visited to exedcute the program.
+
+O(n^2)
+Because each element in the iterable "numbers" is visited every time each element is visited.
+
+18.
+List - when order of input has to be maintained.
+Set - when unique elements have to be maintained.
+Dictionary (dict) - when elements have to be mapped to different values.
+
+19.
+The former function returns a value, printing nothing, while the latter prints the value returning None.
+The returns can be stored or used in the program, while the prints would be printed in the output, not being able to be used in the program. 
+
+20. 
+A class could represent a set of entities and functions that can be executed on an object of the type of the class. It is basically a way to restrict variables and functions to a particular type of objects. this can be used to make different data points in a prediction engine. 
+Ex.: Suppose I am building a prediction model to predict the height of a person based on their age. I would also want multiple other information points of the person, like gender, weight, eating habits etc. These can be stored together in a class representing a particular time stamp (age).
+
+21.
+[2, 4, 6, 8, 10]
+
+The code ocnducts an iteration through 0 to 4, and for each of these indices, it doubles the number at that index in the list "numbers". Finally, it prints the list.
+
+22.
+[1, 2, 3, 4]
+
+Because the variable y just points towards the list x, and appending anything using y would also append it in x.
+
+23.
+Machine learning is the paradigm in computer science where a machine (algorithm) learns to identify patterns from a large amount of data given, and creates something called a "model", which would be a mathematical reperesentation (logic rules) of the prediction logic. Then, this model is used to make predictions over unkown data.
+
+24.
+The first approach is what is traditional programming, wherein rules are predefined and predictions are made using those, while the second approch is machine learning wherein the given huge amount of data is used to build the rules (model).
+
+25.
+The model basically a prediction model, which takes multiple input points and predicts what the price would be. This prediction happes using the internal rules the model has, which were defined using a lot of data.
+
+26.
+The data is given to the model.
+It then sees what data point maps to what, e.g. temperature and humidity might map to raining probability.
+It then makes logical rules, e.g. if temperature > 20 degrees, then it might rain.
+This is what training is.
+
+27.
+This information must be used to adjust the internal rules of the model.
+This is a very useful information since it will make the model learn better by analysing what is the right prediction.
+
+28.
+This suggests that the model is becoming more accurate and itss rules are getting better and better, making it more and more reliable.
+Minimization of the error even more, increasing its accuracy even more.
+
+29.
+This reminds me of overfitting.
+The ML model is trained on a dataset, and then also tested on the same, making the prediction accuracy really high. But when some unkown dataset is given, it basically messes up, since it was never tested on it and never adjusted to encounter unkown data.
+
+30.
+Because it would lead us to believing it is really good, while it isn't. We wouldn't know if the model is good at predicting "any" kind of data. 
+
+31.
+Neural networks are an improved version of ML models, which use a structural architecture near to what scientists think happens int he human brain. Instead of using just some logical rules, it uses weights and biases, or parameters, (I don't exactly know what they are and how they work), in order to work on the data they are given.
+
+32.
+Deep learning uses neural networks, where any given data is analyzed "deeply", usiing a lot of parameters, while traditional machine learning uses logical rules. This is a pretty big of a distinction because parameters allow a lot of combinations of logical rules to be used to examine a given data, which would require a lot of logic statements given to a traditional ML model.
+
+33.
+I'm not sure.
+
+34.
+Nothing.
+
+35.
+I don't know.
+
+36.
+I don't know.
+
+37.
+I don't know.
+
+38.
+I don't know.
+
+39.
+3, 3, 3, 3, 1, 1, 3, 1, 0, 0, 1
+
+40.
+A. Mathematics (especially, algebra and calculus, but not linear algebra, probablity or statistics.)
+B. Nothing "hard", I just didn't know the concepts of those which I didn't answer.
+C. All of them for which I wrote "I don't know.".
+
