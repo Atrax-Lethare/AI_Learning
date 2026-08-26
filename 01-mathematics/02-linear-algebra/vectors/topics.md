@@ -1,0 +1,12 @@
+- What is a vector?
+- Components of a vector
+- Features of a vector
+- Dimensions of a vector
+- Magnitude and direction of a vector
+- Scalar multiplication and dot multiplication
+- Vector addition
+- What does an operation on a vector depict?
+- Distance between vectors
+- Cosine similarity between vectors
+- Why different similarity measures exist?
+- Does representation quality matter? Why?
