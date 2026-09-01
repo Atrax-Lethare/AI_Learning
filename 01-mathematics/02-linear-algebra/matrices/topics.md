@@ -1,0 +1,3 @@
+- What is a matrix mathematically?
+- What is a matrix, intuitively?
+- Intuition about vectors, matrices and matrix multiplication
